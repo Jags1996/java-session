@@ -10,6 +10,7 @@ public class session1 {
 		
 		String name ="jags";
 		int a = 10;
+	 String name1 = "test";
 	}
 	
 	
