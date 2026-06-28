@@ -9,6 +9,7 @@ public class session1 {
 	public static void main(String[]args) {
 		
 		String name ="jags";
+		int a = 10;
 	}
 	
 	
